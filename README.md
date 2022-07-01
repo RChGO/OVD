@@ -14,7 +14,7 @@
 <br>  
 <br> 
 ##### See our paper for details:
-<font size=2> Li S, Guo R, Zhang Y, et al. A Catalogue of 48,425 Nonredundant Viruses From Oral Metagenomes Expands the Horizon of the Human Oral Virome</font>
+<font size=2> Li S, Guo R, Zhang Y, et al. A catalogue of 48,425 nonredundant viruses from oral metagenomes expands the horizon of the human oral virome[J]. iScience, 2022: 104418. </font>
 
 <font size=2> Correspondence and requests for materials should be addressed to grchun@hotmail.com </font>
 
